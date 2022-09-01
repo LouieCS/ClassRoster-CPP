@@ -1,6 +1,6 @@
-# StudentRosterCPP
+# ClassRoster-CPP
 School coding assignment developed using C++.
-
+___________________________________________________________________
 
 COMPETENCIES
 4048.2.1 : Introduction to Programming
@@ -31,6 +31,7 @@ The graduate applies fundamental programming concepts in a specific programming 
 
   The graduate applies object-oriented programming concepts in order to create a basic application.
 
+___________________________________________________________________
 
 
 INTRODUCTION
