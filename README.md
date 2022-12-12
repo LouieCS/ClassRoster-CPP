@@ -1,5 +1,5 @@
 # ClassRoster-CPP
-School coding assignment developed using C++.
+Developed using C++.
 ___________________________________________________________________
 
 COMPETENCIES
