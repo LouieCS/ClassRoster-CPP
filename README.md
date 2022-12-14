@@ -1,5 +1,7 @@
 # ClassRoster-CPP
 Developed using C++.
+
+This program reads and manipulates provided data. The program contains two classes (i.e., Student and Roster). The program will maintain a current roster of students within a given course. Student data for the program include student ID, first name, last name, email address, age, an array of the number of days to complete each course, and degree program. The program will read a list of five students and use function calls to manipulate data. While parsing the list of data, the program creates student objects. The entire student list is stored in one array of students called classRosterArray. Specific data-related output is directed to the console.
 ___________________________________________________________________
 
 COMPETENCIES
